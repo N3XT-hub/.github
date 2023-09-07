@@ -27,4 +27,5 @@ Stay up-to-date with N3XT-AI by following us on [Twitter](https://twitter.com/N3
 
 ## Join us in shaping the future with AI! 🤖🔮
 
-![N3XT-AI Logo](https://github.com/N3XT-AI/.github/assets/108740247/26b299de-718e-4aea-8beb-bcaf4e666078)
+![N3XT-AI Logo](https://github.com/N3XT-AI/.github/assets/108740247/782b62f0-1ca1-44bb-88db-63c4aa153f26)
+
