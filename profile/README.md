@@ -22,9 +22,13 @@ Our mission is clear: to foster collaboration, share knowledge, and ignite innov
 - **Contribute**: Share your wisdom, projects, or tech-related content with our dynamic community. 📢📄
 - **Connect**: Engage with fellow members, ask questions, and network with tech enthusiasts. 🗣️🌐
 
+> Let's code
+
 ## Get in Touch 📞
 
 Do you have questions, ideas, or suggestions? Feel free to reach out to us on our [Discussions](https://github.com/orgs/N3XT-hub/discussions) page. 💬📥
+[!Important]
+Be kind and gentle 
 
 ## Stay Connected 🌐
 
