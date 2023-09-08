@@ -27,8 +27,8 @@ Our mission is clear: to foster collaboration, share knowledge, and ignite innov
 ## Get in Touch 📞
 
 Do you have questions, ideas, or suggestions? Feel free to reach out to us on our [Discussions](https://github.com/orgs/N3XT-hub/discussions) page. 💬📥
-[!Important]
-Be kind and gentle 
+> [!IMPORTANT]
+> Be kind and gentle.
 
 ## Stay Connected 🌐
 
