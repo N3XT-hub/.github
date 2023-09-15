@@ -2,6 +2,7 @@
 
 👋 Hello, I'm Metagravity, and I'm excited to welcome you to the N3XT Community! 🌟
 
+
 ## About N3XT
 
 N3XT is where developers and tech enthusiasts unite with a shared mission: to shape the future through innovative technology. We firmly believe that technology has the power to transform the world, and together, we're committed to driving positive change. 🌍✨
