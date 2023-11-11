@@ -37,7 +37,5 @@ Stay up-to-date with N3XT by following us on [Twitter](https://twitter.com/N3XT)
 
 ## Join us in shaping the future through technology! 🚀🔮
 
-![N3XT-AI Logo](https://github.com/N3XT-AI/.github/assets/108740247/782b62f0-1ca1-44bb-88db-63c4aa153f26)
-
 ![Alt](https://repobeats.axiom.co/api/embed/5c1102a6f949356a646e962dacac912e26f6949d.svg "Repobeats analytics image")
 
